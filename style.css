@@ -33,3 +33,19 @@ table {
     font-family: sans-serif;
     font-size: .8rem;
 }
+
+.H1 {
+    background-color: salmon;
+}
+
+.violet {
+    background-color: violet;
+}
+
+.blue {
+    background-color: lightskyblue;
+}
+
+.yel {
+    background-color: goldenrod;
+}
